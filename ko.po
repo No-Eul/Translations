@@ -172,7 +172,7 @@ msgstr "개발자"
 #: src/launcher/ui/dialogs/AboutDialog.ui:228
 msgctxt "AboutDialog|"
 msgid "License"
-msgstr "라이센스"
+msgstr "라이선스"
 
 #: src/launcher/ui/dialogs/AboutDialog.ui:256
 msgctxt "AboutDialog|"
@@ -220,9 +220,9 @@ msgctxt "AboutDialog|"
 msgid "<p>We keep MultiMC open source because we think it's important to be able to see the source code for a project like this, and we do so using the Apache license.</p>\n"
 "<p>Part of the reason for using the Apache license is we don't want people using the &quot;MultiMC&quot; name when redistributing the project. This means people must take the time to go through the source code and remove all references to &quot;MultiMC&quot;, including but not limited to the project icon and the title of windows, (no <b>MultiMC-fork</b> in the title).</p>\n"
 "<p>The Apache license covers reasonable use for the name - a mention of the project's origins in the About dialog and the license is acceptable. However, it should be abundantly clear that the project is a fork <b>without</b> implying that you have our blessing.</p>"
-msgstr "<p>MultiMC를 오픈 소스로 유지하고 있는 것은 이것과 같은 프로젝트에서 소스 코드를 볼 수 있는 것이 중요하다고 생각하기 때문이며, Apache(아파치) 라이센스를 사용하여 이를 실시하고 있습니다.</p>\n"
-"<p>Apache 라이센스를 채택한 이유 중 하나는 사람들이 이 프로젝트를 변형, 재배포할 때 &quot;MultiMC&quot; 라는 이름을 사용하지 않길 바란다는 점입니다. 이는 사람들이 소스코드를 하나 하나 살펴보고, 프로젝트의 아이콘과 창의 제목(<b>MultiMC-fork(포크)</b> 사용 불가) 등을 포함한 모든 곳에서 &quot;MultiMC&quot;라는 말의 사용을 제거해야 함을 의미합니다.</p>\n"
-"<p>Apache 라이센스는 이 프로젝트의 이름을 합리적인 범위 내에서 사용하는 것 - 정보(About) 및 라이센스 항목에서의 원래 프로젝트에 대한 언급이 있는 경우 - 은 허용합니다. 그러나, 이는 우리 <b>원작자들의 의사와 무관</b>하게 진행된 포크 프로젝트임을 명시할 때만 허용합니다.</p>"
+msgstr "<p>MultiMC를 오픈 소스로 유지하고 있는 것은 이것과 같은 프로젝트에서 소스 코드를 볼 수 있는 것이 중요하다고 생각하기 때문이며, Apache(아파치) 라이선스를 사용하여 이를 실시하고 있습니다.</p>\n"
+"<p>Apache 라이선스를 채택한 이유 중 하나는 사람들이 이 프로젝트를 변형, 재배포할 때 &quot;MultiMC&quot; 라는 이름을 사용하지 않길 바란다는 점입니다. 이는 사람들이 소스코드를 하나 하나 살펴보고, 프로젝트의 아이콘과 창의 제목(<b>MultiMC-fork(포크)</b> 사용 불가) 등을 포함한 모든 곳에서 &quot;MultiMC&quot;라는 말의 사용을 제거해야 함을 의미합니다.</p>\n"
+"<p>Apache 라이선스는 이 프로젝트의 이름을 합리적인 범위 내에서 사용하는 것 - 정보(About) 및 라이선스 항목에서의 원래 프로젝트에 대한 언급이 있는 경우 - 은 허용합니다. 그러나, 이는 우리 <b>원작자들의 의사와 무관</b>하게 진행된 포크 프로젝트임을 명시할 때만 허용합니다.</p>"
 
 #: src/launcher/minecraft/auth/AccountList.cpp:277
 msgctxt "AccountList|Account status"
@@ -3689,7 +3689,7 @@ msgstr "실행 후 명령어가 실패했습니다. 코드는 %1입니다.\n\n"
 #: src/launcher/launch/steps/PostLaunchCommand.cpp:62
 msgctxt "PostLaunchCommand|"
 msgid "Post-Launch command ran successfully.\n\n"
-msgstr "실행 후 명령어가 성공적으로 실행됬습니다.\n\n"
+msgstr "실행 후 명령어가 성공적으로 실행됐습니다.\n\n"
 
 #: src/launcher/launch/steps/PreLaunchCommand.cpp:32
 #, qt-format
@@ -4487,7 +4487,7 @@ msgstr "%1 빠른 설치"
 #: src/launcher/ui/pages/instance/ShaderPackPage.h:12
 msgctxt "ShaderPackPage|"
 msgid "Shader packs"
-msgstr "쉐이더 팩"
+msgstr "셰이더 팩"
 
 #: src/launcher/minecraft/services/SkinDelete.cpp:20
 msgctxt "SkinDelete|"
@@ -5667,7 +5667,7 @@ msgstr "인증 작업이 취소되었습니다."
 #: src/launcher/minecraft/auth/Yggdrasil.cpp:234
 msgctxt "Yggdrasil|"
 msgid "<b>SSL Handshake failed.</b><br/>There might be a few causes for it:<br/><ul><li>You use Windows and need to update your root certificates, please install any outstanding updates.</li><li>Some device on your network is interfering with SSL traffic. In that case, you have bigger worries than Minecraft not starting.</li><li>Possibly something else. Check the log file for details</li></ul>"
-msgstr "<b>SSL 핸드쉐이크에 실패했습니다.</b><br/>이에 대해 몇 가지 원인이 있을 수 있습니다:<br/><ul><li>Windows를 쓰신다면 루트 인증서를 업데이트해야 합니다. 중요한 업데이트를 설치하십시오.</li><li>네트워크에 어떤 장치가 SSL 트래픽을 방해할 수 있습니다. 이 경우, 마인크래프트가 시작 안 하는 것에 대한 걱정보다 더 큰 걱정을 해야 합니다.</li><li>아마도 다른 원인일 수도 있습니다. 더 자세한 사항은 로그를 확인하세요.</li></ul>"
+msgstr "<b>SSL 핸드셰이크에 실패했습니다.</b><br/>이에 대해 몇 가지 원인이 있을 수 있습니다:<br/><ul><li>Windows를 쓰신다면 루트 인증서를 업데이트해야 합니다. 중요한 업데이트를 설치하십시오.</li><li>네트워크에 어떤 장치가 SSL 트래픽을 방해할 수 있습니다. 이 경우, 마인크래프트가 시작 안 하는 것에 대한 걱정보다 더 큰 걱정을 해야 합니다.</li><li>아마도 다른 원인일 수도 있습니다. 더 자세한 사항은 로그를 확인하세요.</li></ul>"
 
 #: src/launcher/minecraft/auth/Yggdrasil.cpp:252
 msgctxt "Yggdrasil|"
